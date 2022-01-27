@@ -5,7 +5,8 @@
 ### 你好，世界 👋
 
 - 🔭 Currently studying at Tianjin University
-- :hammer: A network security enthusiast, focusing on WEB
+- :hammer: A network security enthusiast
+- 😄 CTFer, focusing on WEB
 - :meat_on_bone: Meat lover
 
 <!--
